@@ -26,8 +26,7 @@ using Jetson Nano based RC car.
 
 
 ## Enviroment
-> Python
-> Pytorch
+> Python<br>PyTorch
 
 ## Reference
 - 
